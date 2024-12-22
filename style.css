@@ -1,0 +1,37 @@
+body{
+    background-color: #94f1ee;
+}
+.meme-container{
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.meme-btn{
+    width:20vw;
+    margin: 10px;
+    background-color: #94f1ee;
+    
+}
+.meme-img{
+    width: auto;
+    height: 50vh;
+    object-fit: fill;
+    border-radius: 5px;
+}
+.meme-title{
+    width: 15vw;
+    height: auto;
+}
+.meme-author{
+    width: 15vw;
+    height: auto;
+}
+.meme-btn:hover{
+  
+   background-color: transparent;
+  
+    
+}
